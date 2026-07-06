@@ -5,3 +5,4 @@ import OddPerfectNumberCanonicalLaneLean.SourceDependencies
 import OddPerfectNumberCanonicalLaneLean.Formalization
 import OddPerfectNumberCanonicalLaneLean.ReviewerBridge
 import OddPerfectNumberCanonicalLaneLean.TheoremStatement
+import OddPerfectNumberCanonicalLaneLean.MathlibStatement
