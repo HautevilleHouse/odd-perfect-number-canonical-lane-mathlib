@@ -1,0 +1,7 @@
+-- This module is the root of the OddPerfectNumberCanonicalLaneLean Lean proof package.
+import OddPerfectNumberCanonicalLaneLean.Basic
+import OddPerfectNumberCanonicalLaneLean.SourcePackage
+import OddPerfectNumberCanonicalLaneLean.SourceDependencies
+import OddPerfectNumberCanonicalLaneLean.Formalization
+import OddPerfectNumberCanonicalLaneLean.ReviewerBridge
+import OddPerfectNumberCanonicalLaneLean.TheoremStatement
